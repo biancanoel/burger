@@ -8,6 +8,7 @@ var burger = require("../models/burger.js");
 
 // Create all our routes and set up logic within those routes where required.
 
+
 //When homee route is called
 router.get("/", function(req, res) {
     //call sql query to get all from db

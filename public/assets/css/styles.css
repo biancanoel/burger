@@ -1,0 +1,13 @@
+body {
+    background: lemonchiffon;
+    font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+    font-weight: 500;
+    font-style: italic;
+}
+
+li {
+    margin-bottom: 20px;
+}
